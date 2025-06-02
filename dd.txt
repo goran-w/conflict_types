@@ -1,0 +1,1 @@
+Will be renamed (but unmodified) by both (a rename/rename conflict)
